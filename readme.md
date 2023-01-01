@@ -25,8 +25,8 @@ This chapter will collect all indicators that may point to an known maker/brand.
 
 ## Initial Specification
 
-
+* Discussions in photography formuns [^2].
 
 
 [^1]: A 13x18 ratio sounds weird? These are centimeters. The corresponding inch ratio is 5x7.
-[^2]: Board discussions: (largeformatphotography.info)[https://www.largeformatphotography.info/forum/showthread.php?171542-Looking-for-information-about-an-old-wooden-LF-Cam], (großformatfotografie.de)[https://forum.grossformatfotografie.de/forum/thread/20896-infos-zu-einer-alten-holzkamera-gesucht/], (Leica forum (en))[https://www.l-camera-forum.com/topic/358442-does-anybody-know-this-cam/], (Leica forum (de))[https://www.l-camera-forum.com/topic/358441-kenn-jemand-die-kamera/]
+[^2]: Board discussions: (largeformatphotography.info)[https://www.largeformatphotography.info/forum/showthread.php?171542-Looking-for-information-about-an-old-wooden-LF-Cam], (großformatfotografie.de)[https://forum.grossformatfotografie.de/forum/thread/20896-infos-zu-einer-alten-holzkamera-gesucht/], (Leica forum (en))[https://www.l-camera-forum.com/topic/358442-does-anybody-know-this-cam/], (Leica forum (de))[https://www.l-camera-forum.com/topic/358441-kenn-jemand-die-kamera/], (Blende/Zeit Forum)[https://blende-und-zeit.sirutor-und-compur.de/thread.php?board=1&thread=212&page=1#1]
