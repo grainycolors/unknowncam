@@ -8,7 +8,11 @@
   - [Who built the Cam?](#who-built-the-cam)
   - [Findings](#findings)
     - [Rivet connecting Front Standard with Bellows](#rivet-connecting-front-standard-with-bellows)
-  - [Initial Specification](#initial-specification)
+    - [Serial Numbers](#serial-numbers)
+    - [Front Plate](#front-plate)
+    - [Dimensional Constraints](#dimensional-constraints)
+  - [Camera Map](#camera-map)
+  - [Discussions in Camera/Photography Boards](#discussions-in-cameraphotography-boards)
 
 ## Intro
 
@@ -25,13 +29,50 @@ This chapter will collect all indicators that may point to an known maker/brand.
 
 ## Findings
 
+This section contains all findings that might give indicators about the origin of the cam.
+
 ### Rivet connecting Front Standard with Bellows
+
+There is a rivet connection the front standard with the bellows. The rivet makes neither functionally nor technically any sense. The imprint is: __MAKART № 1__.
+
+In case this is the "camera brand" it might be an indicator for an individual custom built.
 
 ![alt](images/rivet.png)
 
-## Initial Specification
+### Serial Numbers
 
-* Discussions in photography formuns [^2].
+The cam contains some serial numbers. One inside the focus screen flap. It is stamped in as: "40298".
+
+If this number is a correlation with the number of pieces built, then it would speak for an established brand with higher production quantities. However, the number _is not_ printed directly on the camera body but on the plate holder. This part is exchangeable and the serial number tends more to belong to the plate holder but not to the camera.
+
+There are two other numbers; each: "1":
+* One on the plate holder
+* Another one on the cam body; on the rear standard's insert for the plate holder
+
+These "1"s seem to pair up, meaning that plate holder and body belong together. This reminds me on Hasselblad film back, where the film back and its insert share the same serial number, meaning they belong together.
+
+![alt](images/serial_numbers.png)
+
+### Front Plate
+
+The camera body has a front plate. This plate has no function. Scratches on it indicate some letters: "? H I".
+
+![alt](images/front_plate.png)
+
+### Dimensional Constraints
+
+The front standard is unusual "slim" regarding its width. This is due constructional constraints in the folding mechanism; between the standard and the cam base. There is not much space to have a standard with more width.
+
+![alt](images/front_standard_construction.png)
+
+## Camera Map
+
+![alt](images/map_of_the_cam.png)
+
+
+## Discussions in Camera/Photography Boards
+
+Discussions in photography formuns [^2].
 
 
 [^1]: A 13x18 ratio sounds weird? These are centimeters. The corresponding inch ratio is 5x7.
