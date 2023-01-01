@@ -33,7 +33,7 @@ This section contains all findings that might give indicators about the origin o
 
 ### Rivet connecting Front Standard with Bellows
 
-There is a rivet connection the front standard with the bellows. The rivet makes neither functionally nor technically any sense. The imprint is: __MAKART № 1__.
+There is a rivet joining the front standard with the bellows. The rivet doesn't make any sense; neither functionally nor technically. The imprint is: __MAKART № 1__.
 
 In case this is the "camera brand" it might be an indicator for an individual custom built.
 
